@@ -1,0 +1,33 @@
+.row{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+body{
+    font-size: x-large;
+    background-color: antiquewhite;
+}
+
+
+ul{
+    font-size:xx-large;
+}
+li{
+    font-size:x-large;
+}
+
+strong{
+    color: darkred;
+    
+}
+
+.son{
+
+  text-align: right;
+  margin-right: 150px;
+}
+
+.Mantı1 , .MantıYap{
+    color: red;
+    text-decoration:underline;
+}
